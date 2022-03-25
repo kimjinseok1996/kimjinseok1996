@@ -1,0 +1,13 @@
+$maincolor :#666;
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    & a{
+        color:$maincolor;
+        text-decoration: none;
+        &.active{
+            color: red;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.nav a {
+  color: #666;
+  text-decoration: none;
+}
+.nav a.active {
+  color: red;
+}
+
+/*# sourceMappingURL=Navbar.module.css.map */
