@@ -9,16 +9,15 @@
 
 ### ⚙️ Frontend Optimization
 - **렌더링 최적화:** Memoization (useMemo, useCallback), Virtual DOM 이해
-- **성능 개선:** Lazy-loading, Code Splitting, Debounce/Throttle 적용 경험
-- **UX 흐름 개선:** Intersection Observer, 폴링 구조 구현
+- **성능 개선:** Lazy-loading, Code Splitting 적용 경험
 
 ### ☁️ Infra / DevOps
 - **서버 구성 및 배포:** Nginx, Docker, Node.js
-- **운영 환경:** Linux 기반 배포 경험, 간단한 AWS(Lightsail) 운영 경험
-- **기타:** .dockerignore 최적화, HTTPS 설정, 리버스 프록시 구성
+- **운영 환경:** Linux 기반 배포 경험, 간단한 GCP 운영 경험
+- **기타:** HTTPS 설정, 리버스 프록시 구성
 
 ### 🤝 Collaboration & System Design
-- **협업 도구:** Git, Jira, Notion, Figma
+- **협업 도구:** Git, Jira, Slack, Figma
 - **설계 경험:** 컴포넌트 구조 설계 및 리팩토링 주도, 전역 상태 구조 개선
 
 ### 📡 API & 기타 역량
